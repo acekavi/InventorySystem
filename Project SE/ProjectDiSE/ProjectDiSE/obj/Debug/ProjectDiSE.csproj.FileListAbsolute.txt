@@ -1,0 +1,16 @@
+D:\Project SE\ProjectDiSE\ProjectDiSE\obj\Debug\ProjectDiSE.csprojResolveAssemblyReference.cache
+D:\Project SE\ProjectDiSE\ProjectDiSE\obj\Debug\ProjectDiSE.Login.resources
+D:\Project SE\ProjectDiSE\ProjectDiSE\obj\Debug\ProjectDiSE.Properties.Resources.resources
+D:\Project SE\ProjectDiSE\ProjectDiSE\obj\Debug\ProjectDiSE.csproj.GenerateResource.Cache
+D:\Project SE\ProjectDiSE\ProjectDiSE\bin\Debug\ProjectDiSE.exe.config
+D:\Project SE\ProjectDiSE\ProjectDiSE\bin\Debug\ProjectDiSE.exe
+D:\Project SE\ProjectDiSE\ProjectDiSE\bin\Debug\ProjectDiSE.pdb
+D:\Project SE\ProjectDiSE\ProjectDiSE\obj\Debug\ProjectDiSE.exe
+D:\Project SE\ProjectDiSE\ProjectDiSE\obj\Debug\ProjectDiSE.pdb
+D:\Project SE\ProjectDiSE\ProjectDiSE\bin\Debug\MySql.Data.dll
+D:\Project SE\ProjectDiSE\ProjectDiSE\obj\Debug\ProjectDiSE.SplashScreen.resources
+D:\Project SE\ProjectDiSE\ProjectDiSE\obj\Debug\ProjectDiSE.MainMenu.resources
+D:\Project SE\ProjectDiSE\ProjectDiSE\obj\Debug\ProjectDiSE.Password.resources
+D:\Project SE\ProjectDiSE\ProjectDiSE\obj\Debug\ProjectDiSE.ItemList.resources
+D:\Project SE\ProjectDiSE\ProjectDiSE\obj\Debug\ProjectDiSE.Storage.resources
+D:\Project SE\ProjectDiSE\ProjectDiSE\obj\Debug\ProjectDiSE.Deliveries.resources
